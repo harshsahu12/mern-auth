@@ -7,7 +7,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'https://mern-auth-api-m6tz.onrender.com',
+        target: 'https://mern-auth-knvh.onrender.com',
         changeOrigin: true,
       }
     }
