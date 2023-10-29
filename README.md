@@ -1,5 +1,7 @@
 ﻿# Mern-Auth
 
+![Password (1)](https://github.com/harshsahu12/mern-auth/assets/129574323/32c027f6-0a59-4a1f-8924-538c79a8c94e)
+
 ## Overview
  - Authentication and Authorization : In which user can signin and signup with JWT Auth provider and the info get stored in mongoDB database with the hashed password using bycrypt, so that no can login your account and you can update your given details
 
